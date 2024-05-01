@@ -1,4 +1,4 @@
-# Project 3 -Ari-Lloyd-Jared-Owen-Ben---Donationally Charity Website
+# Project 3 Donation Fund Website
 
 ## Table of contents
 
